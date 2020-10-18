@@ -1,5 +1,5 @@
 {
-  "homepage": "http://007Venom.github.io/to-do-list",
+  "homepage": "https://007Venom/to-do-list.git",
   "name": "to-do-list",
   "version": "0.1.0",
   "private": true,
@@ -13,8 +13,8 @@
     "react-scripts": "3.4.3"
   },
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
